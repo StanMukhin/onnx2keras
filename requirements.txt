@@ -1,4 +1,4 @@
-keras
-tensorflow
-numpy 
-onnx
+keras==2.2.4
+tensorflow==1.14.0
+numpy==1.16.1
+onnx==1.4.1
